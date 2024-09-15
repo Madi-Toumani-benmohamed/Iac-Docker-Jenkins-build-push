@@ -137,7 +137,6 @@ pipeline {
 }
 ```
 
-**Remarque :** Remplacez `votre-utilisateur`, `votre-depot`, `votre-image` et `dockerhub-credentials-id` par vos informations.
 
 ## Intégration avec Docker
 
